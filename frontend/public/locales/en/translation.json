@@ -1,0 +1,60 @@
+{
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "hardware_store": {
+        "item": "Hardware item",
+        "item_list_title": "Hardware store items",
+        "create_item_title": "Create hardware store item",
+        "edit_item_title": "Edit hardware store item",
+        "add_item": "Add new hardware store item",
+        "item_deleted": "Hardware store item deleted",
+        "id_not_found": "Id is not specified",
+        "item_not_found": "Hardware store item not found",
+        "item_created": "Hardware store item created",
+        "item_updated": "Hardware store item updated"
+    },
+    "purchase":  {
+        "purchase": "Purchase",
+        "create_purchase_title": "Create purchase",
+        "edit_purchase_title": "Edit purchase",
+        "add_purchase": "Add purchase",
+        "purchase_list": "Purchase list",
+        "delete_purchase": "Delete purchase",
+        "edit_purchase": "Edit purchase",
+        "purchase_deleted": "Purchase deleted",
+        "purchase_created": "Purchase created",
+        "purchase_updated": "Purchase updated"
+    },
+    "navbar": {
+        "home": "Home",
+        "title": "Hardware store",
+        "language": "Language",
+        "create_item": "Create item",
+        "dark_mode": "Dark mode",
+        "light_mode": "Light mode",
+        "orange_mode": "Orange mode"
+    },
+    "form": {
+        "name": "Name",
+        "price": "Price", 
+        "description": "Description",
+        "category": "Category",
+        "quantity": "Quantity",
+        "email": "Email",
+        "address": "Address",
+        "date": "Date",
+        "actions": "Actions",
+        "submit": "Submit"
+    },
+    "search": {
+        "search": "Search",
+        "hide_filters": "Hide filters",
+        "show_filters": "Show filters",
+        "filters": "Filters",
+        "min_price": "Minimum price",
+        "max_price": "Maximum price",
+        "category": "Category",
+        "name": "Name"
+    }
+}

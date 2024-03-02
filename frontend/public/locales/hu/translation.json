@@ -1,0 +1,60 @@
+{
+    "save": "Mentés",
+    "delete": "Törlés",
+    "edit": "Szerkesztés",
+    "hardware_store": {
+        "item": "Alkatrész",
+        "item_list_title": "Alkatrészek listája",
+        "create_item_title": "Alkatrész létrehozása",
+        "edit_item_title": "Alkatrész szerkesztése",
+        "add_item": "Új Alkatrész hozzáadása",
+        "item_deleted": "Alkatrész törölve",
+        "id_not_found": "Azonosító nem található",
+        "item_not_found": "Alkatrész nem található",
+        "item_created": "Alkatrész létrehozva",
+        "item_updated": "Alkatrész frissítve"
+    },
+    "purchase":  {
+        "purchase": "Vásárlás",
+        "create_purchase_title": "Vásárlás létrehozása",
+        "edit_purchase_title": "Vásárlás szerkesztése",
+        "add_purchase": "Vásárlás hozzáadása",
+        "purchase_list": "Vásárlások listája",
+        "delete_purchase": "Vásárlás törlése",
+        "edit_purchase": "Vásárlás szerkesztése",
+        "purchase_deleted": "Vásárlás törölve",
+        "purchase_created": "Vásárlás létrehozva",
+        "purchase_updated": "Vásárlás frissítve"
+    },
+    "navbar": {
+        "home": "Kezdőlap",
+        "title": "Számítástechnikai üzlet",
+        "language": "Nyelv",
+        "create_item": "Termék létrehozása",
+        "dark_mode": "Sötét mód",
+        "light_mode": "Világos mód",
+        "orange_mode": "Narancssárga mód"
+    },
+    "form": {
+        "name": "Név",
+        "price": "Ár",
+        "description": "Leírás",
+        "category": "Kategória",
+        "quantity": "Mennyiség",
+        "email": "Email",
+        "address": "Cím",
+        "date": "Dátum",
+        "actions": "Műveletek",
+        "submit": "Beküldés"
+    },
+    "search": {
+        "search": "Keresés",
+        "hide_filters": "Szűrők elrejtése",
+        "show_filters": "Szűrők megjelenítése",
+        "filters": "Szűrők",
+        "min_price": "Minimum ár",
+        "max_price": "Maximum ár",
+        "category": "Kategória",
+        "name": "Név"
+    }
+}

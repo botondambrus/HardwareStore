@@ -1,0 +1,10 @@
+{
+  "jdbc": {
+    "url": "jdbc:mysql://localhost:3306/hardware_store",
+    "userName": "root",
+    "password": "admin",
+    "driverClassName": "com.mysql.cj.jdbc.Driver",
+    "poolSize": 10,
+    "daoType": "sql"
+  }
+}

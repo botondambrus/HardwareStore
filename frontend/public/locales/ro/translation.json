@@ -1,0 +1,57 @@
+{
+    "save": "Salvați",
+    "delete": "Șterge",
+    "edit": "Editează",
+    "hardware_store": {
+        "item": "Articol de hardware",
+        "item_list_title": "Lista de articole de hardware",
+        "create_item_title": "Creează un articol de hardware",
+        "edit_item_title": "Editează un articol de hardware",
+        "add_item": "Adaugă un nou articol de hardware",
+        "item_deleted": "Articol de hardware șters",
+        "id_not_found": "Identificatorul nu este specificat",
+        "item_not_found": "Articolul de hardware nu a fost găsit",
+        "item_created": "Articol de hardware creat",
+        "item_updated": "Articol de hardware actualizat"
+    },
+    "purchase":  {
+        "purchase": "Cumpărătură",
+        "create_purchase_title": "Creează o cumpărătură",
+        "edit_purchase_title": "Editează o cumpărătură",
+        "add_purchase": "Adaugă o cumpărătură",
+        "purchase_list": "Lista de cumpărături",
+        "delete_purchase": "Șterge cumpărătura",
+        "edit_purchase": "Editează cumpărătura",
+        "purchase_deleted": "Cumpărătura ștearsă",
+        "purchase_created": "Cumpărătura creată",
+        "purchase_updated": "Cumpărătura actualizată"
+    },
+    "navbar": {
+        "home": "Acasă",
+        "title": "Magazin de hardware",
+        "language": "Limbă",
+        "create_item": "Creează un articol"      
+    },
+    "form": {
+        "name": "Nume",
+        "price": "Preț",
+        "description": "Descriere",
+        "category": "Categorie",
+        "quantity": "Cantitate",
+        "email": "Email",
+        "address": "Adresă",
+        "date": "Dată",
+        "actions": "Acțiuni",
+        "submit": "Trimite"
+    },
+    "search": {
+        "search": "Căutare",
+        "hide_filters": "Ascunde filtrele",
+        "show_filters": "Arată filtrele",
+        "filters": "Filtre",
+        "min_price": "Preț minim",
+        "max_price": "Preț maxim",
+        "category": "Categorie",
+        "name": "Nume"
+    }
+}

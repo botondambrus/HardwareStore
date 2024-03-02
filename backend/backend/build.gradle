@@ -1,0 +1,24 @@
+plugins {
+    id 'maven-publish'
+}
+
+dependencies {
+    implementation group: 'org.projectlombok', name: 'lombok', version: '1.18.24'
+    implementation group: 'com.zaxxer', name: 'HikariCP', version: '3.4.1'
+    implementation group: 'org.projectlombok', name: 'lombok', version: '1.18.24'
+    annotationProcessor group: 'org.projectlombok', name: 'lombok', version: '1.18.24'
+    runtimeOnly group: 'mysql', name: 'mysql-connector-java', version: '8.0.28'
+    implementation group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.10.0'
+}
+
+
+publishing {
+    publications {
+        maven(MavenPublication) {
+            groupId = 'edu.bbte.idde.abim2109'
+            artifactId = 'abim2109-backend'
+            version = '1.0-SNAPSHOT'
+            from components.java
+        }
+    }
+}

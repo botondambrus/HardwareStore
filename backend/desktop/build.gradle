@@ -1,0 +1,27 @@
+plugins {
+    id 'application'
+    id 'maven-publish'
+}
+
+dependencies {
+    implementation project(':backend')
+}
+
+run {
+    standardInput = System.in
+}
+
+publishing {
+    publications {
+        maven(MavenPublication) {
+            groupId = 'edu.bbte.idde.abim2109'
+            artifactId = 'abim2109-desktop'
+            version = '1.0-SNAPSHOT'
+            from components.java
+        }
+    }
+}
+
+application {
+    mainClass = 'edu.bbte.idde.abim2109.desktop.Main'
+}
